@@ -1,6 +1,6 @@
 # Odd One Out! — Official Site
 
-The official company website for **WangZha Team**, published as the web presence for our TikTok Mini Games title **Odd One Out!**
+The official company website for **XILOVOTHOS LLC**, published as the web presence for our TikTok Mini Games title **Odd One Out!**
 
 🔗 **Live site:** <https://wangzha-tiktok.github.io/oddoneout/>
 
@@ -35,4 +35,4 @@ The game collects **no personal data**: there is no account system, no analytics
 
 ## License
 
-© 2026 WangZha Team. All rights reserved. The website content, game artwork and code are proprietary; this repository is published solely so that the site can be served through GitHub Pages.
+© 2026 XILOVOTHOS LLC. All rights reserved. The website content, game artwork and code are proprietary; this repository is published solely so that the site can be served through GitHub Pages.
