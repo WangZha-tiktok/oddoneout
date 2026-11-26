@@ -1,12 +1,12 @@
-# Odd One Out! — Official Site
+# Spot It? Odd One Out! — Official Site
 
-The official company website for **XILOVOTHOS LLC**, published as the web presence for our TikTok Mini Games title **Odd One Out!**
+The official company website for **XILOVOTHOS LLC**, published as the web presence for our TikTok Mini Games title **Spot It? Odd One Out!**
 
 🔗 **Live site:** <https://wangzha-tiktok.github.io/oddoneout/>
 
 ## About the Game
 
-**Odd One Out!** is a timed hidden-object puzzle game for TikTok Mini Games. Players explore hand-crafted cartoon scenes of American culture — a retro roadside diner, a small-town baseball stadium, a wild west frontier town and a Thanksgiving dinner table — and tap the objects that simply do **not** belong: a penguin serving hot dogs, a pyramid outside the window, a knight doing the dishes…
+**Spot It? Odd One Out!** is a timed hidden-object puzzle game for TikTok Mini Games. Players explore hand-crafted cartoon scenes of American culture — a retro roadside diner, a small-town baseball stadium, a wild west frontier town and a Thanksgiving dinner table — and tap the objects that simply do **not** belong: a penguin serving hot dogs, a pyramid outside the window, a knight doing the dishes…
 
 - 20 rounds across 4 themed scenes
 - Countdown timer with hint system (hints cost time — wrong taps do too!)
